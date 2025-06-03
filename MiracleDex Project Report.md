@@ -24,7 +24,7 @@
 ![Desktop screenshot](assets/Screenshot1.png)
 
 >**Mobile View:**
-![Mobile screenshot](assets/Screenshot4.png)
+![Mobile screenshot](assets/Screenshot2.png)
 
 ### 🔍 Code Snippets
 ### `index.html`
@@ -291,19 +291,20 @@ Since I’ve worked with asynchronous JavaScript before, most of this part was s
 - [x] `README.md` contains project description, instructions, and screenshots
 
 ### 📎 Links
-- **GitHub Repo:** [Paste link here]  
-- **Live GitHub Pages Site:** [Paste link here]
+- **GitHub Repo:** [https://github.com/eduardo-costa-martiniano/The-MiracleDex](https://github.com/eduardo-costa-martiniano/The-MiracleDex)  
+- **Live GitHub Pages Site:** [https://eduardo-costa-martiniano.github.io/The-MiracleDex/](https://eduardo-costa-martiniano.github.io/The-MiracleDex/)
 
 ### 🖋️ Reflection
-How did using GitHub affect your development process? What new Git or GitHub skills did you gain?
+**How did using GitHub affect your development process? What new Git or GitHub skills did you gain?**
+I was already familiar with GitHub, but I had never deployed a site using GitHub Pages before. It was satisfying to see my site live with just a few clicks, and it gave me more confidence and even some inspiration to start working on my own real-world projects.
 
 ---
 
 ## 🧠 Final Reflection
 
-Imagine you're explaining this project to a friend who doesn’t code. What does your app do? What are you most proud of? What was the hardest part to get working?
+Working on this project felt different from the usual coding assignments. Instead of just building something functional, I had the chance to create something meaningful. Designing a site that highlights Catholic miracles made me more aware of how technology can be used to share things that matter. It wasn’t just about writing clean code or making things look nice. It was about doing justice to the stories behind each miracle.
 
-Reflect on both the technical and the spiritual aspects of building a project about Catholic miracles.
+On the technical side, it was rewarding to see the app come alive with real data and to know that every detail on the screen came from something I built. Deploying the site and seeing it live gave me a real sense of accomplishment. I also started thinking more seriously about how I might use the skills I'm learning not just for work, but for creative or spiritual projects in the future.
 
 ---
 
