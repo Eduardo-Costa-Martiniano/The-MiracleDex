@@ -4,8 +4,8 @@
 **Course:** CSCI 270 – Web/Mobile App Development  
 **Project Title:** MiracleDex  
 **Submission Date:** 6/3/2025
-**GitHub Repo:** [Paste link here]  
-**Live Site (GitHub Pages):** [Paste link here]  
+**GitHub Repo:** [https://github.com/eduardo-costa-martiniano/The-MiracleDex](https://github.com/eduardo-costa-martiniano/The-MiracleDex) 
+**Live Site (GitHub Pages):** [https://eduardo-costa-martiniano.github.io/The-MiracleDex/](https://eduardo-costa-martiniano.github.io/The-MiracleDex/)
 
 ---
 
